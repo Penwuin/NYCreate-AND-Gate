@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-it is a single AND gate.
+It is a single AND gate.
 
 ## How to test
 
